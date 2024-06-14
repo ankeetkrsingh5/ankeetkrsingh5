@@ -77,13 +77,10 @@ I'm always interested in connecting with fellow developers, potential collaborat
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges"align="center" >
-  <a href="https://www.linkedin.com/in/rajeev-kumar-behera-36403428b/">
+  <a href="https://www.linkedin.com/in/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:rajeev.220077@gmail.com">
+  <a href="mailto:">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://www.instagram.com/yes._.i._.am/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
